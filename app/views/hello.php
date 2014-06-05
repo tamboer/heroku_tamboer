@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Laravel PHP Framework</title>
+	<title>Tamboer</title>
+    <link rel="icon"
+          type="image/png"
+          href="img/tamboer_drum_hands.gif">
 	<style>
 		@import url(//fonts.googleapis.com/css?family=Lato:700);
 
