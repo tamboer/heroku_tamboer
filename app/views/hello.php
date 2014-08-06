@@ -41,5 +41,15 @@
         <img height="75" src="img/tamboer_drum_hands.gif">
         <h2>Drumming the rhythm and setting the pace.</h2>
 	</div>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-31920862-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
 </body>
 </html>
